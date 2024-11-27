@@ -1,4 +1,4 @@
 # LidDrivenCavity
 Final Project for the AM5630: Foundation of Computational Fluid Dynamics Course
 
-![image](https://github.com/user-attachments/assets/549c9314-8b05-4a63-8cca-f77f887bbfa7)
+![Streamline Contour](https://github.com/user-attachments/assets/e6244e23-e385-4861-a0e5-e18936357af6)
